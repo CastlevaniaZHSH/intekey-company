@@ -1,4 +1,18 @@
 # intekey-company
+
+Open Matlab 2015b.
+Forward to the floder of step 1.
+change the variable of crack path.
+Click run script, the step2 will be called in step1 .m file using "system" command.
+
+
+best regards,
+Sheng Zhang
+2019/8/14
+
+
+________________________________________________________________________________________________
+
 A Combo to Crack the InteKey file security system. Some times we just want to get our code and time back.
 
 Here in Brisonus, upper class uses a tool called Intekey encript system to encript your source code to specified files.
