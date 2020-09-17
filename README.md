@@ -1,4 +1,4 @@
-# intekey-company
+# intekey-crack
 
 Open Matlab 2015b.
 Forward to the floder of step 1.
